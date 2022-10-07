@@ -8,4 +8,4 @@ Position : Frontend Engineer
 
 Organization : GWI
 
-![Dimitris' GitHub stats](https://github-readme-stats.vercel.app/api?username=DimitrisTheoDev&count_private=true&show_icons=true&theme=dark&hide=contribs)
+![Dimitris' GitHub stats](https://github-readme-stats.vercel.app/api?username=DimitrisTheoDev&count_private=true&show_icons=true&theme=dark)
